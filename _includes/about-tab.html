@@ -1,0 +1,7 @@
+<div class="tab">
+  <section class="page">
+  {% capture my_include %}{% include about.md %}{% endcapture %}
+  {{ my_include | markdownify }}
+  </section>
+  {% include archive-link.html %}
+</div>
