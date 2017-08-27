@@ -16,4 +16,4 @@ Craig Eley: production
 
 ## The Site
 
-This is a Jekyll site running a variation of the Trophy Jekyll. The full code for the site can be found on GitHub. All images and design work from [Art & Sons](http://artandsons.com/).
+This is a Jekyll site running a variation of the [Trophy Jekyll](https://github.com/thomasvaeth/trophy-jekyll) theme. The full code for the site can be found on [GitHub](https://github.com/fieldnoise/fn-jekyll-site). All images and design work from [Art & Sons](http://artandsons.com/).
