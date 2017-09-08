@@ -18,6 +18,8 @@ profile_img:
 profile: 
 social:
   twitter: fieldnoiseaudio
+  facebook: fieldnoisepodcast
+  soundcloud: fieldnoiseaudio
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
